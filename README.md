@@ -13,11 +13,11 @@ A Streamlit-based web application for detecting Personal Protective Equipment (P
 
 ## Available Models
 
-| Model | Type | Speed | Classes | Description |
+| Model | Type | Classes | Description |
 |---|---|---|---|---|
-| **YOLOv11s** | Object Detection | Fastest | 11 | Single-stage detector optimized for real-time inference |
-| **ResNet18** | Multi-Label Classification | Scene-level | 11 | Classifies overall PPE compliance across safety categories |
-| **Faster R-CNN** | Object Detection | Most Accurate | 10 | Two-stage detector with highest localization accuracy |
+| **YOLOv11s** | Object Detection | 11 | Single-stage detector optimized for real-time inference |
+| **ResNet18** | Multi-Label Classification | 11 | Classifies overall PPE compliance across safety categories |
+| **Faster R-CNN** | Object Detection | 10 | Two-stage detector with highest localization accuracy |
 
 ## YOLOv11s and ResNet18 Class
 
