@@ -74,8 +74,6 @@ weights/
 └── faster_rcnn_weights.pth
 ```
 
-Model weights are not included in the repository. Obtain them from the training outputs or contact the project maintainers.
-
 ## Usage
 
 Run the Streamlit app:
